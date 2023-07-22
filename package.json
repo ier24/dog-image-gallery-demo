@@ -28,6 +28,7 @@
     "vite": "^4.4.6"
   },
   "dependencies": {
+    "bulma": "^0.9.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
