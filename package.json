@@ -1,0 +1,38 @@
+{
+  "name": "dog-image-gallery-demo",
+  "version": "1.0.0",
+  "description": "Reactに慣れるためのチュートリアル#04  TypeScriptを利用する。",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ier24/dog-image-gallery-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ier24/dog-image-gallery-demo/issues"
+  },
+  "homepage": "https://github.com/ier24/dog-image-gallery-demo#readme",
+  "devDependencies": {
+    "@types/node": "^20.4.3",
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "typescript": "^5.1.6",
+    "vite": "^4.4.6"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "volta": {
+    "node": "18.17.0",
+    "npm": "9.6.7"
+  }
+}
