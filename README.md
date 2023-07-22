@@ -1,8 +1,8 @@
-## 内容
- Reactに慣れるためのチュートリアル#04
- TypeScriptを利用する。
+## Reactに慣れるためのチュートリアルのログ#04
+ TypeScriptを利用する。また、今回からCreate React Appは利用しない。
 
  https://zenn.dev/likr/articles/6be53ca64f29aa035f07
+
 
 ## TypeScript導入時に打ったコマンド
 ```zsh
