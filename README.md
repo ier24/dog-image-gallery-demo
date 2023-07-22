@@ -23,3 +23,7 @@ http://localhost:5173/
 ```zsh
 npm run dev
 ```
+
+## その他諸々のメモ
+- CSSフレームワーク: [Bulma](https://bulma.io/)
+- ホスティングサービス: [Netlify](https://www.netlify.com/)
