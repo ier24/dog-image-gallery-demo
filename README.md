@@ -3,6 +3,9 @@ TypeScriptを利用する。また、今回からCreate React Appは利用しな
 
 https://zenn.dev/likr/articles/6be53ca64f29aa035f07
 
+## つくったもの
+https://dog-image-gallery-2023.netlify.app/
+
 
 ## TypeScript導入時に打ったコマンド
 ```zsh
@@ -23,6 +26,9 @@ http://localhost:5173/
 ```zsh
 npm run dev
 ```
+
+## デプロイ方法メモ
+チュートリアルには`npm run build`を実行して、`dist`ディレクトリごとNetlifyの管理画面にアップロードする方法が紹介されていたが、今回はGitHubと連携してリポジトリを読み込み、デプロイをする方法を利用した。
 
 ## その他諸々のメモ
 - CSSフレームワーク: [Bulma](https://bulma.io/)
